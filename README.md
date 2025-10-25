@@ -1,6 +1,7 @@
 # CS-320-Portfolio
 
 **How can I ensure that my code, program, or software is functional and secure?**
+
 The best way to make sure my code is functional and secure is by testing it regularly and paying attention to detail. Writing unit tests helps catch problems early before they become harder to fix. Automated testing also makes it easier to confirm that everything still works after updates or new features are added. I’ve learned how important it is to plan for security from the very beginning instead of treating it as an afterthought. Using safe coding practices, validating user input, and keeping sensitive data protected are all essential steps. I also make sure to review my code carefully and look for ways to improve both reliability and safety.
 
 **How do I interpret user needs and incorporate them into a program?**
